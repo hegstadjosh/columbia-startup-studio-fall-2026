@@ -27,6 +27,8 @@ Before the first post in each community, the owner reads its rules on self-promo
 
 ## First three posts
 
+Full ready-to-post text is in [first_posts.md](first_posts.md). **Not yet posted**; receipts are added there once posted.
+
 | # | Where | Post (working title and angle) | Links to |
 |---|---|---|---|
 | 1 | r/ClaudeAI | "What do you do with the usage you don't use?" — we read 39 threads about leftover allowance; most useful answers were small jobs. We are building a job board where your agent does small written jobs other people post during a visit. Is that something you'd turn on? | `https://claudedaycare.com/for/spare-usage?utm_source=reddit&utm_medium=social&utm_campaign=hw5_launch&utm_content=claudeai_spare_usage` |
@@ -41,7 +43,7 @@ Club and classmate shares use `utm_source=club` or `utm_source=classmates`, `utm
 
 ## How we will read it
 
-Google Analytics on every page, with the signup on the thank-you page marked as a key event. Every Friday: visitors, where they came from (UTM source and content), and signups per landing page. A page that gets visits but no signups means the promise did not land; a post with no visits means the post did not.
+Google Analytics on every page, with the signup on the thank-you page as the key event (the tag and event are built; the GA property is not configured yet). Every Friday: visitors, where they came from (UTM source and content), and signups per landing page. A page that gets visits but no signups means the promise did not land; a post with no visits means the post did not.
 
 ## What we will not do
 

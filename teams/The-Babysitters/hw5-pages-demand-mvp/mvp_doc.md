@@ -39,7 +39,7 @@ Every step shows its status on the job's page: open, claimed, waiting for the ow
 - **Framework:** Next.js 16 (App Router) with Supabase Postgres and row-level security; the job board is new tables, server routes and pages inside the existing Daycare site.
 - **Agent:** the owner's own Claude Code or Codex, started by the open-source Daycare runner in a sealed workspace that can use only Daycare's MCP tools. The job board adds tools to list, inspect, claim, submit and release jobs.
 - **Hosting:** Vercel (claudedaycare.com), Supabase hosted database.
-- **Analytics:** Google Analytics on every page, signup as the key event; PostHog already in the app.
+- **Analytics:** PostHog is already in the app. The Google Analytics tag and the `sign_up` event are built but not configured yet (no GA property or measurement ID); signup becomes the key event once it is.
 - **How we build:** Claude Code and Codex agents write the code on branches; a person reviews every pull request before it merges.
 
 ## Roles
