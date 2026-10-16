@@ -24,6 +24,6 @@ Product: Claude Daycare, [claudedaycare.com](https://claudedaycare.com).
 
 **Built:** one Google Analytics tag in the site layout that loads on every page once a measurement ID is set, and a `sign_up` event sent from the thank-you page once per real signup. Every link we post uses lowercase UTM parameters, and signups store the UTM tags with the address.
 
-**Not yet configured:** there is no Google Analytics property or measurement ID yet, so no page sends data to GA today, and `sign_up` is not yet marked as a key event. **[owner: replace this paragraph with the verification receipt (property, Realtime visit, key event) once configured.]**
+**Not yet configured:** there is no Google Analytics property or measurement ID yet, so no page sends data to GA today, and `sign_up` is not yet marked as a key event. Once it is configured, this paragraph will be replaced by the receipt: the property, a Realtime visit and the key event.
 
-**Analytics Academy:** **[team: name each member who has started Analytics Academy 101 and 102, with the date]**
+**Analytics Academy:** not yet recorded. Each member who has started Analytics Academy 101 and 102 will be listed here with the date they started.

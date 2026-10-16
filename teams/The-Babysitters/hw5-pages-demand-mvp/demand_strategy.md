@@ -39,7 +39,7 @@ Club and classmate shares use `utm_source=club` or `utm_source=classmates`, `utm
 
 ## One blog post (planned)
 
-**"What 39 Reddit threads say about leftover Claude usage"** — the findings from our HW4 research written for a general reader: people cannot read their meter, they protect their usage by hand, and when they have usage left over they reach for useful jobs. Ends with what we are building and a link to `/for/spare-usage?utm_source=blog&utm_medium=referral&utm_campaign=hw5_launch&utm_content=leftover_usage_post`. Publish on the team's Medium or Substack **[team]**; target date **[team]**.
+**"What 39 Reddit threads say about leftover Claude usage"** — the findings from our HW4 research written for a general reader: people cannot read their meter, they protect their usage by hand, and when they have usage left over they reach for useful jobs. Ends with what we are building and a link to `/for/spare-usage?utm_source=blog&utm_medium=referral&utm_campaign=hw5_launch&utm_content=leftover_usage_post`. Venue (the team's Medium or Substack) and date not set yet.
 
 ## How we will read it
 
