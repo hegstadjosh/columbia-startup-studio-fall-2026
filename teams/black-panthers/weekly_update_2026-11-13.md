@@ -1,43 +1,103 @@
-# Weekly Update: Black Panthers (Plandit), November 13, 2026
+# Weekly Update: Plandit, November 13, 2026
 
-#### Accountability: what we did
+## Accountability: what we did
 
-- **Build:** Added account creation, per-account cloud sync, usage events, direct TikTok and
-  Instagram caption extraction, exact-address place matching, route lines, travel modes, and
-  editable stop prices. We also fixed an iOS 18 URL bug that prevented sync, events, and account
-  deletion. This went beyond our original prototype plan because the real share-to-plan path needed
-  working accounts, reliable imports, and navigation before we could test activation.
-- **Grow:** We recruited three college-student testers through class, a friend, and a random student.
-  We did not run a broader acquisition campaign because the sessions showed that adding a place and
-  reading the finished plan still create too much friction.
-- **Analyze:** We compared all three sessions and found three repeated blockers: two participants
-  struggled to add a place, two could not understand or edit the budget, and two lost their place
-  after building or opening a plan. Two participants also reacted positively to sharing.
-- **Research:** We ran three usability sessions on November 6, including one session with a
-  stranger. Participants attempted sign-up, adding a saved place, building a budget-aware day plan,
-  and sharing. The available notes did not record the exact activation moment for each participant.
+**Build:** We got the app ready for the App Store and submitted it for review.
 
-#### Planning: what we're doing next
+- Accounts and data: built the sign-up and sign-in flow, connected the app to a Supabase database,
+  and set up tracking for sign-ups and active users. Recorded a demo of the Plandit workflow for
+  Apple's reviewers. (Abraham)
+- Getting around: users can choose walking, subway, or driving between stops, with times from Apple
+  Maps and routes drawn on the map. Fixed route lines not showing. Added editing stop times after a
+  plan is made. (Eldad)
+- Budgeting: each stop has a price estimate users can change, plus their own extra costs and a full
+  budget breakdown. (Eldad)
+- Video import: reworked the short-form video sharing and extraction flow so we no longer depend on
+  a paid API. (Jaden)
+- Wrote the Terms of Service page for the website, which the App Store requires. (Eldad)
+- This matched our plan.
 
-- **Build:** First, make adding a place one reliable action from Saved, with paste/search support for
-  Instagram and TikTok. Then show editable per-stop costs and a running budget total, land users
-  directly on the finished plan with clear walk/subway labels, and make sharing a one-tap link with
-  place and ticket links. These changes address the repeated blockers closest to activation.
-- **Grow:** Distribute a signed TestFlight build to a small group of college students, then recruit
-  at least three new testers after the core flow is fixed. We are delaying wider promotion until a
-  new user can save a place and reach a plan without help.
-- **Analyze:** Add a simple activation funnel from shared/pasted link to saved place, finished plan,
-  and shared plan. This will show which usability fix improves completion rather than only clicks.
-- **Research:** Re-run at least three sessions with people who have not seen Plandit, including at
-  least one stranger. Record where each person reaches the aha moment and whether the revised
-  add-place, budget, route, and share flows work without moderator help.
+**Grow:** We set up our channels and prepared our first content.
 
-#### Issues
+- Created TikTok, Instagram, and LinkedIn accounts. (Hunter, Catherine)
+- Drafted five video ideas; filming starts Friday morning. Reached out to the professor to schedule
+  filming. (Hunter, Catherine)
+- Set up Meta ads accounts so they are ready when we launch ads. (Hunter, Catherine)
+- Contacted the Columbia University PR team about a collaboration. (Hunter, Catherine)
+- This matched our plan.
 
-- Real-device and TestFlight testing require access to the team's paid Apple Developer account
-  because Personal Teams cannot sign the current Sign in with Apple and App Group capabilities.
-- App Store submission still needs privacy/security hardening and accurate disclosures for cloud
-  sync, Apple Maps lookup, and exact public-post caption processing.
-- The November 6 notes did not capture recording details or exact aha-moment timing, so the next
-  sessions need a stricter note-taking checklist.
+**Analyze:** We have not completed product analysis yet. Tracking for sign-ups and active users is
+now live, so we will have data starting this week.
 
+**Research:** We ran three usability sessions and received a separate design review.
+
+- Adding a place was the biggest blocker. One participant's upload button failed and took 17 clicks
+  to add a single place. Another could not find how to add a place at all.
+- In two of three sessions, participants could not tell how the budget worked and wanted to change
+  the cost at a specific stop.
+- In two of three sessions, participants got lost: they were sent to Google Maps without expecting
+  it, could not find their plan after creating it, or could not tell walking legs from subway legs.
+- Sharing is what excited people most, but one participant found the share flow too complex and
+  wanted links to restaurants and tickets in the shared plan.
+- The design review recommended a tutorial for new users, a Home tab with selected lists instead of
+  an empty map, and simplifying the Saved tab.
+- Full findings are in `hw7-usability-testing/usability_synthesis.md`.
+
+## Planning: what we're doing next
+
+**Build:**
+
+- Fix anything Apple flags in the App Store review. (Jaden, Eldad) This is the gate to getting real
+  users onto the app.
+- Polish the UI based on usability feedback. (Jaden) Start with one reliable Add Place action, then
+  clarify per-stop budget editing, keep users on the finished plan with labeled travel legs, and
+  reduce sharing to one actionable link.
+- Improve how short-form videos are stored in the database. (Abraham) This supports adding places
+  from Reels and TikTok, where participants struggled most.
+- Refine the UI of sign-up and sign-in. (Abraham)
+- Polish the map. (Eldad) Participants could not tell walking from subway legs.
+- Build contributions and inviting friends. (Eldad) Sharing with friends is the main way
+  participants said they would use Plandit.
+
+**Grow:**
+
+- Finish filming, edit, and upload the first batch of videos. (Hunter, Catherine)
+- Print and put up Plandit posters around campus with QR codes to the website. (Hunter, Catherine)
+- Post about Plandit on Reddit. (Hunter, Catherine)
+- Why: Videos, posters, and Reddit get Plandit in front of students who have not heard of it.
+  Because Plandit is built for planning and sharing days out with friends, each new user has a
+  reason to bring others in, so early visibility should turn into word of mouth.
+
+**Analyze:**
+
+- Review the first video analytics to see which platform and which videos bring people to the
+  website. (Hunter, Catherine) This tells us where to focus our time and ad spend.
+- Use the new sign-up and active-user tracking to measure the funnel from account creation to first
+  saved place and first completed plan. This shows whether the add-place and navigation changes
+  improve activation.
+
+**Research:**
+
+- Run at least three more usability sessions after the add-place and navigation fixes ship,
+  including at least one stranger. Record whether each participant reaches a finished plan without
+  help and the exact moment they understand Plandit's value.
+
+## Issues
+
+- The App Store review is still pending. We cannot get users onto the app until Apple approves it,
+  and we need to fix any flags quickly.
+
+## Key Metrics
+
+- Sign-ups and active users: tracking is live as of this week; no reporting period has completed
+  yet.
+- Usability: three sessions completed. The available notes did not record a reliable aha-moment
+  count.
+
+## Decisions Needed / Action Items
+
+- Jaden, Eldad: Fix App Store review flags (Due: Friday, November 20).
+- Hunter, Catherine: Upload first batch of videos (Due: Friday, November 20).
+- Hunter, Catherine: Put up QR code posters and post on Reddit (Due: Friday, November 20).
+- Decision needed: Should contributions and inviting friends come before simplifying the share
+  flow? Only one of three usability participants asked for collaboration.
