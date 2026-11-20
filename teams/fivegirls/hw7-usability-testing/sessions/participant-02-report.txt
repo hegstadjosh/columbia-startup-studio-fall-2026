@@ -1,5 +1,14 @@
 Usability Testing Report — NYC Restroom Finder
 
+Session context
+
+Moderator: Zheli Chen
+Note-taker: Jiaqi
+Participant: P02, a stranger to the team.
+Target audience: a person who lives in or travels to NYC.
+Prior exposure: first time using Restroom Ready.
+Consent: agreed to AI audio note-taking with the DingTalk A1 AI note-taker.
+
 Task 1: Find a Suitable Restroom
 
 User Actions:
