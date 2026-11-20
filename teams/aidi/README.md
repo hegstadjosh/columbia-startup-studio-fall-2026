@@ -4,7 +4,9 @@
 
 - [Team Members](#team-members)
 - [Initial Real Problem](#initial-real-problem)
+- [Current Product Status](#current-product-status)
 - [Repository Directory](#repository-directory)
+- [Weekly Updates](#weekly-updates)
 
 ## Team Members
 
@@ -17,6 +19,10 @@
 
 International students applying to U.S. undergraduate programs often struggle to find reliable, organized, and personalized information about schools and the application process. They may not know which schools fit their profile, what materials they need to prepare, how to understand deadlines, or where to find trustworthy information beyond rankings and scattered online posts.
 
+## Current Product Status
+
+Aplovia officially launched on November 13, 2026, at [aplovia.app](https://aplovia.app). The live product now supports real student account registration instead of the earlier waitlist flow. It currently includes 36 institutions that completed final data review, while additional institution records remain under review or require missing-data resolution. Product questions and support requests can be sent to `support@aplovia.app`.
+
 ## Repository Directory
 
 | Repository Section | Description |
@@ -24,7 +30,13 @@ International students applying to U.S. undergraduate programs often struggle to
 | [HW 2.2 Design Work](./hw2.2-design-work/) | Contains the team's early problem-definition, class exercises, and design work. |
 | [HW 3 Interviews](./hw3-interviews/) | Contains the interview scripts, AI interview prompts, complete interview records, and post-interview snapshots. |
 | [HW 4 Synthesis and Brand Position](./hw4-synthesis-brand-position/) | Contains the interview synthesis comparison, Reddit research, persona agents, brand position, style guide, logo assets, and coding-repository setup. |
-| [HW 5 MVP Document and Pages](./hw5-mvp-doc-and-pages/) | Contains the MVP product brief and the live Render URLs for the homepage and three value-proposition landing pages, including their audiences, value propositions, routes, and deployment status. |
+| [HW 5 MVP Document and Pages](./hw5-mvp-doc-and-pages/) | Contains the historical MVP product brief and the original Render deployment records for the homepage and three value-proposition landing pages, including their audiences, value propositions, routes, and deployment status. |
 | [HW 6 Demand Plan and Analytics](./hw6-demand-plan-and-analytics/) | Contains the team's demand strategy, traffic ownership, community outreach evidence, and planned social, blog, and email publishing schedules. |
-| [Usability Tests](./usability-tests/) | Contains weekly usability test plans, participant observations, recurring findings, product decisions, and follow-up validation questions. |
-| [Weekly Updates](./weekly-updates/) | Contains the team's weekly accountability, planning, user-count reporting, and current blockers. |
+| [HW 7 Usability Testing](./hw7-usability-testing/) | Contains three real-user session notes and the team's usability synthesis, including recurring findings, prioritized product changes, and deferred ideas. |
+
+## Weekly Updates
+
+| Update | Description |
+|---|---|
+| [November 6, 2026](./weekly_update_2026-11-06.md) | Covers the pre-launch product work, initial growth commitments, and findings from three usability sessions. |
+| [November 13, 2026](./weekly_update_2026-11-13.md) | Covers the production launch, official domain and email infrastructure, initial registrations and outreach, launch analysis, and next priorities. |
