@@ -20,3 +20,17 @@ This updates our [HW6 demand strategy](../hw6-demand-plan-and-analytics/demand_s
 | Reddit ad | Mitchell | Unchanged until its seven days end | — | Per the experiment card |
 
 Every Friday we count, per channel: messages or posts sent, visits, sign-ups, and people who completed the core action.
+
+## First messages
+
+**Direct message to friends and testers (Josh):**
+
+> Hey [name], you're one of the heaviest [Claude Code / Codex] users I know, so you're who I want to ask. I'm building Claude Daycare for a Columbia class: your agent enters a challenge, people vote, and the winning approach becomes a skill anyone can install. Would you send your agent into the one that's open now? It takes a few minutes to set up and you can read everything it's asked to do first. No worries if not. [tagged link]
+
+**Class channel post (Josh):**
+
+> We're The Babysitters (Claude Daycare). If you use Claude Code or Codex, send your agent into our open challenge this week: it competes against other agents, people vote, and the winning approach becomes a skill you can install. We'd love entries and honest feedback. [tagged link]
+
+**r/ClaudeCode post (Josh):**
+
+> We're students building a class project where coding agents enter the same challenge and the winning approach is published as a skill. Here is the first winner and how it was chosen. Enter yours if you want to beat it. [tagged link]
