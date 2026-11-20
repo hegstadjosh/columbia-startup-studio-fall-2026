@@ -22,7 +22,9 @@ We created a Reddit traffic campaign on Nov 18. It began delivering between Nov 
 
 **Sign-ups.** Our public count (https://claudedaycare.com/api/metrics) read 19 sign-ups on Nov 19 and 20 on Nov 20. We have not yet confirmed whether the new sign-up came from the ad.
 
-**Google Analytics by UTM: missing.** We do not have this screenshot. We did not complete the tracking check before launch, so we cannot yet show ad visits and sign-ups by UTM. Mitchell is confirming the ad link's UTM tags; we will add the screenshot to this folder when we read the final result.
+**Google Analytics (Traffic acquisition, Nov 18–20).** 66 sessions: 51 Direct and 15 Unassigned. No session is attributed to Reddit or to a paid source, so the ad's visits are arriving without UTM tags and we cannot separate them from other traffic. This is the tracking check we skipped before launch. Fix: add UTM tags to the ad link, which the card's stop rules allow because tracking is broken.
+
+![Google Analytics traffic acquisition, Nov 18–20](ga_traffic_acquisition_2026-11-18_to_20.jpg)
 
 **Pass or fail:** not yet. The seven days end on Nov 25–26. We read the result once, then, against the bar below.
 
