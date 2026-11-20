@@ -3,8 +3,8 @@
 **Date:** Nov 6, 2026 · Zoom
 **Participant:** P1
 **Who they are:** MSAI graduate student
-**How we found them:** Someone we know a little and who fits our audience
-**Stranger or someone we know?** Semi-stranger (seen around, not a close friend)
+**How we found them:** Someone who fits our audience
+**Stranger or someone we know?** Stranger
 **Consent form signed?** Yes
 **Recording consent?** Yes (recorded over Zoom)
 **Recording link:** None shared
