@@ -7,7 +7,7 @@
 
 Since the midterm demo, we simplified the iPhone restroom cards, grouped ratings and public notes under Rate and Comment, and added a moderator dashboard for new restroom requests and inappropriate comments. We are distributing our [public TestFlight link](https://testflight.apple.com/join/PxWSpdJ8) and expect more users in the coming days.
 
-We completed [three usability sessions](hw8-usability-testing/README.md). Basic map navigation worked, and two testers successfully saved and reopened places. Issues included an unclear empty filter result, missing hours on an approved submission, and disorganized expanded condition reports. The third tester needed guidance to understand Share when reporting an entry-permission update, then could not see the change where expected. This highlighted unclear contribution actions and results.
+We completed [three usability sessions](hw7-usability-testing/README.md). Basic map navigation worked, and two testers successfully saved and reopened places. Issues included an unclear empty filter result, missing hours on an approved submission, and disorganized expanded condition reports. The third tester needed guidance to understand Share when reporting an entry-permission update, then could not see the change where expected. This highlighted unclear contribution actions and results.
 
 **What we are building next and why**
 
