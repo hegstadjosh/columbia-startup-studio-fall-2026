@@ -1,6 +1,6 @@
 # Usability synthesis: Gable
 
-**Sessions run:** 3 (Nov 6, [Nov ?], Nov 11), on the staging MVP, over Zoom. Each of us ran and took notes for our own session.
+**Sessions run:** 3 (Nov 6, Nov 10, Nov 11), on the staging MVP, over Zoom. Each of us ran and took notes for our own session.
 **Participants who reached the aha moment (a short list of sublets that fit what they asked for):** 3 of 3.
 Notes for each session are in `sessions/`.
 

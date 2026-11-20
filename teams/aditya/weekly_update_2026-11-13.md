@@ -5,7 +5,7 @@
 - **Build:** Michelle updated the UI to feel more intuitive, including the map. We also tried to add Google sign-in to make sign-up easier, but it didn't work, so we'll retry. We planned an automatic welcome email when someone signs up; that is still not done.
 - **Grow:** Light activity: Michelle liked posts on Reddit. We have no signups yet, so there is no signup count to report. This was less than planned because we were still working on the data side.
 - **Analyze:** Combined the three usability sessions into `hw7-usability-testing/usability_synthesis.md`. Counted how often each problem showed up across sessions: sign-in confusion and "not enough listings" each showed up in 3 of 3.
-- **Research:** Ran 3 usability sessions on the staging MVP (Nov 6, [Nov ?], Nov 11) with students, recorded with consent. All 3 reached the aha moment. We planned 3 to 5 and ran 3.
+- **Research:** Ran 3 usability sessions on the staging MVP (Nov 6, Nov 10, Nov 11) with students, recorded with consent. All 3 reached the aha moment. We planned 3 to 5 and ran 3.
 
 ## Planning: what we're doing next
 

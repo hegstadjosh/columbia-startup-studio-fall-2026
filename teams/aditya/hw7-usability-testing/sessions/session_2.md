@@ -1,6 +1,6 @@
 # Session 2
 
-**Date:** [fill in]
+**Date:** Nov 10, 2026 · Zoom
 **Participant:** P2
 **Who they are:** Senior at Columbia
 **How we found them:** Columbia student
