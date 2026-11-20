@@ -3,13 +3,13 @@
 **Date:** Nov 11, 2026 · Zoom
 **Participant:** P3
 **Who they are:** Columbia student, not on our team
-**How we found them:** [fill in]
-**Stranger or someone we know?** [fill in] (not on our team)
+**How we found them:** Someone we know a little and who fits our audience
+**Stranger or someone we know?** Semi-stranger (seen around, not a close friend; not on our team)
 **Consent form signed?** Yes
-**Recording consent?** [fill in]
-**Recording link:** [team-only link]
+**Recording consent?** Yes
+**Recording link:** None shared
 **Moderator:** Lookman
-**Note-taker:** [fill in]
+**Note-taker:** Lookman (we each ran and took notes for our own session)
 **Site tested:** https://gable-git-staging-gable2.vercel.app (started signed out)
 
 ## Task-by-task observations

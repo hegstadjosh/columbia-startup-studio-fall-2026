@@ -3,13 +3,13 @@
 **Date:** Nov 6, 2026 · Zoom
 **Participant:** P1
 **Who they are:** MSAI graduate student
-**How we found them:** [fill in]
-**Stranger or someone we know?** [fill in]
-**Consent form signed?** [fill in]
+**How we found them:** Someone we know a little and who fits our audience
+**Stranger or someone we know?** Semi-stranger (seen around, not a close friend)
+**Consent form signed?** Yes
 **Recording consent?** Yes (recorded over Zoom)
-**Recording link:** [team-only link]
+**Recording link:** None shared
 **Moderator:** Sam
-**Note-taker:** [fill in]
+**Note-taker:** Sam (we each ran and took notes for our own session)
 **Site tested:** https://gable-git-staging-gable2.vercel.app (started signed out)
 
 ## Task-by-task observations

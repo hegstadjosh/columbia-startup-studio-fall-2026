@@ -4,12 +4,12 @@
 **Participant:** P2
 **Who they are:** Senior at Columbia
 **How we found them:** Columbia student
-**Stranger or someone we know?** [fill in]
+**Stranger or someone we know?** Stranger
 **Consent form signed?** Yes
 **Recording consent?** Yes
-**Recording link:** [team-only link]
+**Recording link:** None shared
 **Moderator:** Michelle
-**Note-taker:** [fill in]
+**Note-taker:** Michelle (we each ran and took notes for our own session)
 **Site tested:** https://gable-git-staging-gable2.vercel.app (started signed out)
 
 ## Task-by-task observations
